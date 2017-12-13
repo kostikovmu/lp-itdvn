@@ -1,0 +1,12 @@
+.idea/
+node_modules
+npm-debug.log
+
+# Windows template
+
+Desktop.ini
+*.lnk
+*.cab
+*.msi
+*.msm
+*.msp
